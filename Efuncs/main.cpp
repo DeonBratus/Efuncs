@@ -26,7 +26,7 @@ struct String
 int main()
 {
     String str("hello");
-    String str1("wrld");
+    String str1("world");
     str.append(str1);
     cout<<str.str;
     return 0;
