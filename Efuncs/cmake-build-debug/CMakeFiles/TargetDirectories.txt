@@ -1,3 +1,0 @@
-C:/Users/bratu/CLionProjects/Efuncs/Efuncs/cmake-build-debug/CMakeFiles/Efuncs.dir
-C:/Users/bratu/CLionProjects/Efuncs/Efuncs/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/bratu/CLionProjects/Efuncs/Efuncs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
